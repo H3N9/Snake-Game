@@ -1,1 +1,1 @@
-# Snake-Game for education propose
+# Snake-Game for education purpose
